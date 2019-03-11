@@ -16,15 +16,19 @@ https://github.com/navneetkrc/Colab_f...
 
 Using Scikit learn
 https://scikit-learn.org/0.19/dataset...
+
 https://github.com/navneetkrc/Colab_f...
 
 NLP Datasets
 https://gengo.ai/datasets/the-best-25...
+
 https://towardsdatascience.com/top-so...
 
 
 Slideshare https://www.slideshare.net/navneet604779/transfer-learning-in-nlp
+
 Speakerdeck https://speakerdeck.com/navneetkrc/transfer-learning-in-nlp
+
 LinkedIn Mention  https://www.linkedin.com/feed/update/urn:li:activity:6510779310742310912/
 
 Event Photos Library https://photos.app.goo.gl/f3bvQxjiNZAK2kfi7.
